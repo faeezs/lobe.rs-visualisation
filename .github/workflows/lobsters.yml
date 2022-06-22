@@ -8,7 +8,7 @@ on:
   schedule:
     - cron: '*/60 * * * *'
     
-  jobs:
+jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
