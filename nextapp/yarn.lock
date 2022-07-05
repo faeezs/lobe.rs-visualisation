@@ -1069,6 +1069,11 @@ d3-random@3:
   resolved "https://registry.yarnpkg.com/d3-random/-/d3-random-3.0.1.tgz#d4926378d333d9c0bfd1e6fa0194d30aebaa20f4"
   integrity sha512-FXMe9GfxTxqd5D6jFsQ+DJ8BJS4E/fT5mqqdjovykEB2oFbTMDVdg1MGFxfQW+FBOGoB++k8swBrgwSHT1cUXQ==
 
+d3-render@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/d3-render/-/d3-render-0.3.0.tgz#d62a8716b24eabd55a7584d03de164caf5737e4d"
+  integrity sha512-HLMKkKFun1+Kxi5x5xv2GlqcKTA6Z07F7FvVM748XCFm9Tl5t6ZABV0tESy3cJ0zmdcxit+749QAsZuuNBmUSw==
+
 "d3-scale-chromatic@1 - 3", d3-scale-chromatic@3:
   version "3.0.0"
   resolved "https://registry.npmjs.org/d3-scale-chromatic/-/d3-scale-chromatic-3.0.0.tgz"
